@@ -1,0 +1,25 @@
+.container {
+    border: lightslategray;
+    border-radius: 0dvb;
+    border-color: rgb(49, 35, 62);
+    border-style: ridge;
+    font-size: large;
+    border-top-right-radius: 0cqmax;
+}
+
+.header {
+	font-size: large;
+	color: #333;
+	margin-top: 5rem;
+	margin-bottom: 2rem;
+}
+
+.button {
+	display: inline-block;
+	background-color:rgb(88, 124, 178);
+    color: aliceblue;
+	padding: 1rem 2rem;
+	text-decoration: none;
+	border-radius: 4px;
+	margin-top: 2rem;
+}
